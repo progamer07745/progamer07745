@@ -67,6 +67,12 @@ I'm a front-end developer specializing in React, currently building web applicat
 ## 📊 GitHub Stats
 
 <div align="center">
+  <div align="center" >
+<a  href="https://github.com/SP-XD">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=progamer07745&theme=nord_dark" width="32.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=progamer07745&theme=nord_dark" width="32.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=progamer07745&theme=nord_dark" width="32.5%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=progamer07745&theme=tokyonight&hide_border=true" width="90%" />
   <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=progamer07745&theme=github-dark&hide_border=true" width="90%" />
