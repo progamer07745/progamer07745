@@ -1,53 +1,63 @@
 <h1 align="center">Omar Mostafa</h1>
-<h3 align="center">Front-End Developer | React Specialist</h3>
+<h3 align="center">Front-End Developer | React Specialist | Tech Content Creator</h3>
 
 ---
 
 ## 🚀 About Me
 
-Front-End Developer focused on building clean, responsive, and high-performance web applications using React.
+I’m a Front-End Developer specialized in building modern, scalable web applications using **React.js**.
 
-I care about:
-- UI accuracy
+I focus on:
+- Clean, maintainable code
 - Performance optimization
-- Clean component architecture
-- Real-world project structure
+- UI/UX consistency
+- Real-world project architecture
 
-Currently improving my skills in:
-- Advanced React patterns
-- TypeScript
-- API integration & state management
+I’m also a Tech Content Creator on YouTube, simplifying programming concepts and building real projects publicly.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Core**
+**Frontend**
+- React.js
+- JavaScript (ES6+)
 - HTML5
 - CSS3
-- JavaScript (ES6+)
-- React
-
-**Styling**
-- Tailwind CSS
-- Responsive Design
-- Figma to Code
+- Tailwind / Chakra UI
 
 **Tools**
 - Git & GitHub
 - VS Code
-- Vite
-- Chrome DevTools
+- Figma
+- Linux / Windows
 
 ---
 
-## 📌 What I’m Working On
-- Real-world React projects
-- Improving performance & Lighthouse score
-- Building a strong freelance-ready portfolio
+## 📂 Featured Work
+
+- Modern Responsive Landing Pages
+- React Dashboard Systems
+- Business Portfolio Websites
+- UI Clones & Real Projects
 
 ---
 
-## 📬 Contact
+## 📈 Current Focus
+
+- Advanced React Patterns
+- Performance Optimization
+- Building scalable Front-End architectures
+- Growing a tech education brand
+
+---
+
+## 📬 Connect With Me
+
+- YouTube: (put your channel link here)
 - LinkedIn: (your link)
-- Email: (your email)
+- Email: (your professional email)
+
+---
+
+> “Consistency beats motivation.”
