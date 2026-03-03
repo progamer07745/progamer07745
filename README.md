@@ -3,14 +3,14 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Omar Mustafa</h1>
-<h3 align="center">Junior Front-End Developer (React) & Tech YouTuber</h3>
+<h3 align="center">Front-End Developer (React) & Tech Educator on YouTube</h3>
 
 <div align="center">
   <a href="https://youtube.com/@TrioCoders"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://t.me/Omar_Mostafa23"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/omar-mustafa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/omar_mustafa"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:itzprogamer07745@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:itzprogamer077@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/201234567890"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
 
 <br />
@@ -23,13 +23,13 @@
 
 ## 📌 About Me
 
-I'm a passionate **Junior Front-End Developer** with a focus on **React** and an active **tech content creator** on YouTube, where I collaborate with two partners to produce educational programming content and tech insights.
+I'm a front-end developer specializing in React, currently building web applications and sharing knowledge through YouTube tutorials. I work with two colleagues on a tech education channel where we break down complex topics into practical, actionable content.
 
-- 🔭 I’m currently diving deep into **Advanced React Patterns & Performance Optimization**
-- 🌱 I’m constantly exploring **UI/UX best practices** and modern front-end architectures
-- 💬 Ask me about **React, JavaScript, or anything front-end related**
-- 🎥 I run a [YouTube channel](https://youtube.com/@TrioCoders) with two amazing partners – we create tutorials and discuss the latest in tech
-- ⚡ Fun fact: Being part of a content team keeps me on my toes – I learn something new every day!
+- 🔭 I’m deepening my expertise in **advanced React patterns, performance optimization, and modern front-end architectures**.
+- 🌱 I actively follow **UI/UX trends** and strive to write clean, maintainable code.
+- 💬 Ask me about **React, JavaScript, TypeScript, or transitioning into tech content creation**.
+- 🎥 I co-host [TrioCoders](https://youtube.com/@TrioCoders), a YouTube channel focused on web development tutorials and industry discussions.
+- ⚡ Outside of coding, I enjoy exploring new tools, gaming, and collaborating on creative projects.
 
 <hr />
 
@@ -67,47 +67,67 @@ I'm a passionate **Junior Front-End Developer** with a focus on **React** and an
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=progamer07745&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=progamer07745&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=progamer07745&theme=tokyonight&hide_border=true" width="90%" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=progamer07745&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=progamer07745&theme=github-dark&hide_border=true" width="90%" />
 </div>
+
 
 <hr />
 
-## 🎥 My YouTube Channel
+## 🎥 YouTube Channel – TrioCoders
 
-I'm part of a tech education channel with two other creators. We regularly post:
+Together with two fellow developers, I create educational content that helps developers build real-world skills. Our channel focuses on:
 
-- 📘 **Tutorials** on React, Next.js, and modern web development
-- 🛠️ **Developer tooling** and workflow tips
-- 💡 **Tech discussions** and industry trends
+- 📘 **In‑depth tutorials** on React, Next.js, and modern JavaScript.
+- 🛠️ **Practical guides** on developer tooling, workflows, and best practices.
+- 💡 **Discussions** on industry trends, career advice, and tech culture.
 
 <div align="center">
   <a href="https://youtube.com/@TrioCoders?sub_confirmation=1">
     <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <br />
-  <sub>🔔 Hit the bell to get notified about new videos</sub>
+  <sub>🔔 New videos every week – click the bell to stay updated</sub>
 </div>
 
 <hr />
 
 ## 📫 Let's Connect
 
-I'm always open to discussing new opportunities, collaborations, or just chatting about tech. Feel free to reach out!
+I'm open to collaborations, freelance opportunities, or just a good conversation about tech. Reach out through any of these platforms:
 
-- 💬 **Telegram**: [@Omar_Mostafa23](https://t.me/Omar_Mostafa23)
-- 📧 **Email**: [itzprogamer077@gmail.com](mailto:itzprogamer077a@gmail.com)
-- 🔗 **LinkedIn**: [omar-mustafa](https://linkedin.com/in/omar-mustafa)
-- 🎥 **YouTube**: [@TrioCoders](https://youtube.com/@TrioCoders)
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Telegram</b></td>
+      <td><a href="https://t.me/Omar_Mostafa23">@Omar_Mostafa23</a></td>
+    </tr>
+    <tr>
+      <td><b>WhatsApp</b></td>
+      <td><a href="https://wa.me/201014991409">+20 101 499 1409</a></td>
+    </tr>
+    <tr>
+      <td><b>Email</b></td>
+      <td><a href="mailto:itzprogamer077@gmail.com">itzprogamer077@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td><b>LinkedIn</b></td>
+      <td><a href="https://linkedin.com/in/omar-mustafa">omar-mustafa</a></td>
+    </tr>
+    <tr>
+      <td><b>YouTube</b></td>
+      <td><a href="https://youtube.com/@TrioCoders">@TrioCoders</a></td>
+    </tr>
+  </table>
+</div>
 
 <hr />
 
 <div align="center">
-  <i>“The only way to do great work is to love what you do.” – Steve Jobs</i>
+  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
   <br /><br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
   <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=omar-mustafa&style=flat-square&color=blue" alt="Profile views counter" />
+  <img src="https://komarev.com/ghpvc/?username=progamer07745&style=flat-square&color=blue" alt="Profile views counter" />
 </div>
