@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Omar%20Mostafa%20💻&fontSize=70&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Omar%20Mostafa%20🚀&fontSize=70&animation=fadeIn" width="100%" />
 
 <br>
 
 <a href="https://omarmostafa.pages.dev">
-  <img src="https://img.shields.io/badge/Live_Portfolio-Check_My_Works-blueviolet?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Live_Portfolio-Check_My_Projects-blueviolet?style=for-the-badge&logo=react" />
 </a>
 <a href="https://youtube.com/@TrioCoders">
   <img src="https://img.shields.io/badge/YouTube_Channel-Trio_Coders-red?style=for-the-badge&logo=youtube" />
@@ -13,8 +13,8 @@
 
 <br><br>
 
-### ⚛️ Senior Frontend Developer (React) | 🎬 Tech Content Creator
-**Crafting seamless digital experiences with modern web technologies.**
+### ⚛️ Junior Frontend Developer (React) | 🎬 Content Creator
+**Passionate about building responsive, pixel-perfect user interfaces.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=progamer07745&style=flat-square&color=blue&label=PROFILE+HITS)
 <img src="https://img.shields.io/badge/Open_To_Work-YES-success?style=flat-square" />
@@ -22,29 +22,29 @@
 
 <hr>
 
-## 🚀 Professional Summary
-- 💻 **Expertise:** Specialized in **React.js** and **Next.js** for building scalable web applications.
-- 🎨 **UI/UX:** Focus on high-performance animations using **Framer Motion** and **Tailwind CSS**.
-- 🎙️ **Leadership:** Co-founder of **Trio Coders**, leading technical content and teaching modern workflows.
-- 🛠️ **Workflow:** Clean code enthusiast, utilizing Git-flow and Agile methodologies.
+## 🚀 About Me
+- 💻 **Junior Developer:** Focusing on creating clean and maintainable code using **React.js**.
+- 📱 **Responsive Design:** Expert in making websites look great on all screens (Bootstrap & Tailwind).
+- 🎨 **Figma to Code:** Skilled at transforming UI designs into interactive web pages.
+- 🎙️ **Sharing Knowledge:** Co-owner of **Trio Coders**, helping other beginners start their coding journey.
 
 <hr>
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Stack
 <div align="center">
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frameworks** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) |
-| **Styling** | ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white) |
-| **State/Logic** | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Tools** | ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
+| **Core** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Frameworks** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
+| **Styling** | ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Design & Tools**| ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) |
 
 </div>
 
 <hr>
 
-## 📈 GitHub Activity Graph
+## 📈 My Growth
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=progamer07745&theme=react-dark&hide_border=true" width="100%" />
 </div>
@@ -58,11 +58,11 @@
 
 <hr>
 
-## 💫 Coding Philosophy
+## 💫 My Motto
 ```javascript
-const devMission = {
-  focus: "Performance & Accessibility",
-  style: "Component-Based Architecture",
-  goal: "Writing code that other developers love to read",
-  motto: "Think twice, code once."
+const juniorLife = {
+  learning: "Every Single Day",
+  building: ["Responsive UIs", "React Apps"],
+  currentGoal: "Turning Figma designs into high-quality code",
+  motto: "Keep it simple, keep it clean."
 };
